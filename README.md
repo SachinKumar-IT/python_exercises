@@ -2,6 +2,7 @@
 
 This repository contains my daily Python programming practice questions, coding exercises, and Data Structures & Algorithms (DSA) solutions.
 
+
 ## Topics Covered
 
 - Arrays
@@ -44,6 +45,7 @@ I regularly upload new coding problems and their solutions to maintain consisten
 ## Language Used
 
 - Python 3
+
 
 ## Author
 
