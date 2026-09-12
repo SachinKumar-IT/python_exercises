@@ -1,4 +1,4 @@
-#Print the odd numbers between 1 and 10
+#Print the odd numbers between 1 and 100
 
 i=0
 while(i<100):

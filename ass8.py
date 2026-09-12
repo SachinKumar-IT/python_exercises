@@ -4,5 +4,5 @@
 r= float(input("Enter the radius of circle:"))
 π = 3.14
 
-area = π*r**2
+area = π*r**2  #area of circle
 print("The area of circle is", area)

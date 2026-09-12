@@ -7,4 +7,4 @@ integer_part=int(num)
 fractional_part=num-integer_part
 
 print("The integer part is:", integer_part)
-print("The fractional part is:", round(fractional_part, 2))
+print("The fractional part is:", round(fractional_part, 2)) #used round function to round off the fractional part up to 2 decimal places
